@@ -3,7 +3,7 @@ url: anjaliverma07.github.io
 author: Anjali Verma
 email: anjaliverma471@gmail.com
 description: >
-  Hi! I am Anjali, I am a web developer at Deutsche Bank and I create blogs on various software development technologies.  
+  Hi! I am Anjali, I am a web developer at Deutsche Bank and I create blogs on various software development technologies!!!  
 show_excerpts: false # set to true to show excerpts on the homepage
 paginate: 20
 paginate_path: "/blog/page:num/"
